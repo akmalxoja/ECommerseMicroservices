@@ -25,7 +25,7 @@ namespace Catalog.API.Controllers.CatalogControllers
             return Ok(result);
         }
 
-        [HttpDelete]
+       
 
 
     }
